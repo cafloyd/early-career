@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Tips & Resources for Early-Career Devs",
   tagline: "Advice for finding your first tech role",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://imaginative-tulumba-10895f.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
