@@ -8,7 +8,7 @@ I don't have experience with most of these communities/resources, but hopefully 
 
 - [Meetup](https://www.meetup.com/home/) - great for finding local events!
 - [Women Who Code](https://www.womenwhocode.com/networks) - I've had great experience with my local WWC chapter!
-- [Here to Help](heretohelp.social) from [Shawn Axsom](https://twitter.com/ShawnAxsom) - a directory of people who are 'here to help'
+- [Here to Help](https://heretohelp.social) from [Shawn Axsom](https://twitter.com/ShawnAxsom) - a directory of people who are 'here to help'
 - [Code Connector](https://codeconnector.io/)
 - [Year One](https://www.joinyearone.io/)
 
