@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+A collection of my advice and resources I've gathered for early-career developers trying to break into tech. Built with [Docusaurus](https://docusaurus.io/).
 
 ### Installation
 
