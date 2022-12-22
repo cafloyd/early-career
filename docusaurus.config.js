@@ -6,13 +6,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Tips/Resources for Early-Career Devs",
-  tagline: "Dinosaurs are cool",
+  title: "Tips & Resources for Early-Career Devs",
+  tagline: "Advice for finding your first tech role",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/CaitlinFloydLogo.png",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -29,10 +29,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -45,69 +41,69 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Tips/Resources for Early-Career Devs",
+        title: "Tips & Resources for Early-Career Devs",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Caitlin Floyd Logo",
+          src: "img/CaitlinFloydLogo.png",
         },
-        items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Tutorial",
-          },
-          // {
-          //   href: "https://github.com/facebook/docusaurus",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
-        ],
+        // items: [
+        //   {
+        //     type: "doc",
+        //     docId: "intro",
+        //     position: "left",
+        //     label: "Tutorial",
+        //   },
+        //   // {
+        //   //   href: "https://github.com/facebook/docusaurus",
+        //   //   label: "GitHub",
+        //   //   position: "right",
+        //   // },
+        // ],
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Tutorial",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        // links: [
+        //   {
+        //     title: "Docs",
+        //     items: [
+        //       {
+        //         label: "Tutorial",
+        //         to: "/docs/intro",
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: "Community",
+        //     items: [
+        //       {
+        //         label: "Stack Overflow",
+        //         href: "https://stackoverflow.com/questions/tagged/docusaurus",
+        //       },
+        //       {
+        //         label: "Discord",
+        //         href: "https://discordapp.com/invite/docusaurus",
+        //       },
+        //       {
+        //         label: "Twitter",
+        //         href: "https://twitter.com/docusaurus",
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: "More",
+        //     items: [
+        //       {
+        //         label: "Blog",
+        //         to: "/blog",
+        //       },
+        //       {
+        //         label: "GitHub",
+        //         href: "https://github.com/facebook/docusaurus",
+        //       },
+        //     ],
+        //   },
+        // ],
+        copyright: `© ${new Date().getFullYear()} Caitlin Floyd. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
