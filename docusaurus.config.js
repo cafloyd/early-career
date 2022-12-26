@@ -52,7 +52,7 @@ const config = {
           {
             href: "https://caitlinfloyd.com",
             label: "caitlinfloyd.com",
-            position: "left",
+            position: "right",
           },
         ],
       },

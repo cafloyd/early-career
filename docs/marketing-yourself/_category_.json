@@ -1,7 +1,8 @@
 {
-  "label": "Marketing Yourself",
+  "label": "📣 Marketing Yourself",
   "position": 6,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "slug": "/marketing-yourself"
   }
 }

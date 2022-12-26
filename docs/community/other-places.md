@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Places to Look
 
-I don't have experience with most of these communities/resources, but hopefully this will give you somewhere to start in looking for some community. In general, I've found that local communities or ones that share specific values or interests with you are the most useful.
+I don't have experience with a lot of these communities/resources, but hopefully this will give you some ideas of where to look for community. In general, I've found that local communities or ones that share specific values or interests with you are the most useful, as opposed to massive generalized communities.
+
+## General Resources
 
 - [Meetup](https://www.meetup.com/home/) - great for finding local events!
 - [Women Who Code](https://www.womenwhocode.com/networks) - I've had great experience with my local WWC chapter!

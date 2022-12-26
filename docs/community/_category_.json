@@ -1,8 +1,9 @@
 {
-  "label": "Community",
+  "label": "👥 Community",
   "position": 6,
   "link": {
     "type": "generated-index",
-    "description": "Job hunting can be really tough, and I highly encourage you to build some community for yourself. This could be your bootcamp cohort; people you meet through coding Meetups in your area; or any of these communities I've linked in the following pages"
+    "description": "Job hunting can be really tough, and I highly encourage you to build some community for yourself. This could be your bootcamp cohort; groups you meet through volunteering; people you meet through coding Meetups in your area; or any of these communities I've linked in the following pages",
+    "slug": "/community"
   }
 }

@@ -2,15 +2,12 @@
 sidebar_position: 2
 ---
 
-# 🥾 Bootcamps
+# Bootcamps
 
 I attended a bootcamp, and it was definitely the right call for me. In my experience, there are two main benefits to attending a bootcamp over self-learning:
 
-1. **Accountability**
-   I admire people with the will power to do self-learning, but that is not me. I needed the accountability of paying money, and having instructors and classmates expecting me to complete assignments or I absolutely would not have stuck with it.
-2. **Network**
-   The network you gain by being an alum of your bootcamp can be extremely valuable. If a hiring manager recognizes your bootcamp, it could give you an advantage in the interview process. You might be able to leverage connections into a job referral, or at least get guidance from fellow alums.
-   For this reason, I _highly_ encourage you to do your research about which bootcamps have the best reputation in your area, if you're going this route.
+1. **Accountability**: I admire people with the will power to do self-learning, but that is not me. I needed the accountability of paying money, and having instructors and classmates expecting me to complete assignments or I absolutely would not have stuck with it.
+2. **Network**: The network you gain by being an alum of your bootcamp can be extremely valuable. If a hiring manager recognizes your bootcamp, it could give you an advantage in the interview process. You might be able to leverage connections into a job referral, or at least get guidance from fellow alums. For this reason, I _highly_ encourage you to do your research about which bootcamps have the best reputation in your area, if you're going this route.
 
 ## Researching Bootcamps
 

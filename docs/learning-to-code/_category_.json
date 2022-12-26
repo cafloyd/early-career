@@ -1,7 +1,9 @@
 {
-  "label": "Learning to Code",
+  "label": "📚 Learning to Code",
   "position": 4,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "There are a ton of ways to get into coding, but for career-changers, the two most common ways are by attending a coding bootcamp, or by self-learning. I'd definitely recommend starting with some free or low-cost online courses first to see if you enjoy coding, at which point you can decide if you want to continue with self-learning or consider something like a bootcamp.",
+    "slug": "/learning-to-code"
   }
 }
