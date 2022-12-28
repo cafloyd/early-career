@@ -17,7 +17,7 @@ Another tip to find programs with strong alumni networks is to look on Linkedin 
 
 Obviously if you know any software engineers, especially ones that live near you, get their input here as well!
 
-### Questions to Ask/Look Into
+### Questions to Ask
 
 - How does payment work? Is it at all dependent upon you finding work **as a software engineer**?
 - What is the percentage of graduates who find work as software engineers within a year of completing the program?
@@ -33,6 +33,6 @@ Obviously if you know any software engineers, especially ones that live near you
 | [The Grace Hopper Program](https://www.gracehopper.com/)    | 📍 NYC                                                                          | This is the bootcamp I attended, and in the end it was the right decision for me, but there were definitely pros and cons—if you'd like more details feel free to reach out to me!                                    |
 | [Fullstack Academy](https://www.fullstackacademy.com/)      | 📍 NYC                                                                          | My bootcamp, the Grace Hopper Program, was a subset of Fullstack Academy—same deal, if you'd like some of my impressions, feel free to reach out!                                                                     |
 | [Resilient Coders](https://www.resilientcoders.org/)        | 📍 Boston, Philadelphia, Pittsburgh                                             | I don’t have a ton of first-hand knowledge about this program, but from what I’ve seen it looks like an awesome program with a fantastic mission to support Black, Indigenous, and People of Color breaking into tech |
-| [Alchemy Code Lab](https://www.alchemycodelab.com/)         | 📍 remote, Portland OR                                                          | I know of quite a few alums who speak very highly of this program, and from what I’ve passively observed alums seem to graduate well-prepared to enter the workforce.                                                 |
-| [General Assembly](https://generalassemb.ly/)               | 📍 [many locations](https://generalassemb.ly/locations)                         | I don't know too much about GA, but it does seem to have a pretty large footprint, which at the very least means it has a large alumni network.                                                                       |
+| [Alchemy Code Lab](https://www.alchemycodelab.com/)         | 📍 Remote, Portland OR                                                          | I know of quite a few alums who speak very highly of this program, and from what I’ve passively observed alums seem to graduate well-prepared to enter the workforce.                                                 |
+| [General Assembly](https://generalassemb.ly/)               | 📍 [Many locations](https://generalassemb.ly/locations)                         | I don't know too much about GA, but it does seem to have a pretty large footprint, which at the very least means it has a large alumni network.                                                                       |
 | [Flatiron School](https://flatironschool.com/)              | 📍 Virtual, Austin, Chicago, Colorado Springs, Dallas, DC, Denver, NYC, Seattle | Another program that I don't know too much about, but I do know quite a few people who attended so it seems to have a strong network.                                                                                 |

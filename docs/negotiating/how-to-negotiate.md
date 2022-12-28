@@ -4,9 +4,11 @@ sidebar_position: 2
 
 # How to Negotiate
 
-For me, one of the hardest parts of negotiating was trying to figure out how to get the recruiter to give their range before I gave mine. If they beat you to the question, the best response I've heard was from the below video with Tori Dunlap "It's hard to understand the full scope of the role at this stage in the process, so I'd love to know your budget!"
+For me, one of the hardest parts of negotiating was trying to figure out how to get the recruiter to give their range before I gave mine. If they beat you to the question, the best response I've heard was from [this video with Tori Dunlap](https://www.youtube.com/watch?v=w2eWCCG3pW4):
 
-- [Tori Dunlap video](https://www.youtube.com/watch?v=w2eWCCG3pW4)
+> It's hard to understand the full scope of the role at this stage in the process, so I'd love to know your budget!
+
+Some additional resources for learning how to negotiate:
 
 - [How to Negotiate the Tech Salary You Deserve](https://thenewstack.io/how-to-negotiate-the-tech-salary-you-deserve/)
 - [A Guide to Salary Negotiation for Women in Tech](https://www.myhatchpad.com/insight/a-guide-to-salary-negotiation-for-women-in-tech/)

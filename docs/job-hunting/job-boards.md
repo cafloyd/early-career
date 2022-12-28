@@ -14,4 +14,12 @@ There are a ton of job boards out there. Below are some that I liked. My advice 
 - [Built in NYC](https://www.builtinnyc.com/jobs/dev-engineering) (NYC-based)
 - [4 Day Week](https://4dayweek.io/) (haven't actually used this one, but I like the concept!)
 
+:::tip
 Job boards can be expensive, and not all companies post to them. If you have a dream company, it's a good idea to keep an eye on their "careers" page. It's also a great idea to join some local tech Slack communities - most have a job listings channel where people will post openings at their companies.
+:::
+
+[This tiktok](https://www.tiktok.com/@tem.bv/video/7132616862885580075) also had a great tip for finding job listings - use [Google search operators](https://static.semrush.com/blog/uploads/files/39/12/39121580a18160d3587274faed6323e2.pdf) to your advantage. This is the search example used in the video, customize it for your needs:
+
+```
+site:lever.co | site: greenhouse.io | site:jobs.ashbyhq.com | site: app.dover.io (engineer | developer) "react" -staff -senior -sr. -principal -lead -"c++" after:2022-07-01
+```
