@@ -45,7 +45,7 @@ const config = {
       navbar: {
         title: "Tips & Resources for Early-Career Devs",
         logo: {
-          alt: "Caitlin Floyd Logo",
+          alt: "Caitlin Floyd logo",
           src: "img/CaitlinFloydLogo.png",
         },
         items: [
@@ -58,7 +58,13 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `© ${new Date().getFullYear()} Caitlin Floyd. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} Caitlin Floyd`,
+        links: [
+          {
+            label: "Source Code",
+            href: "https://github.com/cafloyd/early-career",
+          },
+        ],
       },
       prism: {
         theme: lightCodeTheme,
