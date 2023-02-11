@@ -30,10 +30,9 @@ There are a ton of job boards out there. Below are some that I liked. My advice 
 - [Protege.dev](https://protege.dev/)
 - [No CS OK](https://nocsok.com/)
 - [4 Day Week](https://4dayweek.io/)
+- Not quite a job board, but a list of companies [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 ## Other places to find job listings
-
-Every style of technical interviewing has it flaws, but in my opinion whiteboard-style interviews are some of the worst (because they don't do an accurate job of gauging a candidate's ability to code). If you want to try to avoid them, here's a collection of companies [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards).
 
 :::tip
 Job boards can be expensive, and not all companies post to them. If you have a dream company, it's a good idea to keep an eye on their "careers" page. It's also a great idea to join some local tech Slack communities - most have a job listings channel where people will post openings at their companies.

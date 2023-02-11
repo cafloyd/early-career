@@ -10,6 +10,8 @@ sidebar_position: 2
 
 - If you don't know how to format a resume, [Standard Resume](https://standardresume.co/) has some useful templates
 
+- If you want a better sense of the kinds of things recruiters and hiring managers are looking for when they look at resumes, I found this video of an experienced recruiter and hiring manager [reviewing resumes](https://www.youtube.com/watch?v=6fkVTqQxJX8) just as they do when they're hiring to be really useful.
+
 :::info
 In the US, employers outside of academia generally expect a resume, not a CV. If you don't know the difference between these two terms, [here is a helpful write-up](https://www.indeed.com/career-advice/resumes-cover-letters/difference-between-resume-and-cv).
 
