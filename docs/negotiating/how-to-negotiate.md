@@ -17,3 +17,4 @@ Some additional resources for learning how to negotiate:
 - [Early Career Negotiations](https://yougotthis.io/library/early-career-negotiation/) - This video has advice about negotiating both on the job hunt, as well as after accepting a job
 - [Salary Negotiation Tips from White Men in Tech](https://www.keirstenbrager.tech/salarytips-part1/)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [A People Pleaser's Guide to Salary Negotiation](https://m.youtube.com/watch?v=4EoMYQ6fmss)

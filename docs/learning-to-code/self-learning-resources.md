@@ -18,7 +18,6 @@ If you have the self-discipline to go this route from the start, there are defin
 - [Scrimba beginner courses](https://scrimba.com/allcourses?level=1)
 - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/) -Once you’ve learned some HTML and CSS fundamentals, I really love this interactive guide to basic web development!
 - [Developer roadmaps](https://roadmap.sh/)
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Learning computer science fundamentals isn’t necessarily required to be a programmer, but it is extremely helpful context to have, and this CS course from Harvard is far and away the most recommended one
 
 ### Free Bootcamp Programs
 
@@ -26,6 +25,12 @@ Even though these programs are called bootcamps, I have them listed on the 'self
 
 - [FreeCodeCamp Web Development Bootcamp](https://www.classcentral.com/cohorts) - This is a free six-week fundamentals course that I think could be a really great way to learn some of the basics of coding to get a feel for it! If this link has expired, search for the "Free Web Development Bootcamp" from freeCodeCamp.
 - [100 Devs](https://leonnoel.com/100devs/) - I know a few people who completed this program and have heard really great things about it! The 100 Devs community is also really strong and supportive
+
+### Computer Science Fundamentals
+Learning computer science fundamentals isn’t necessarily required to be a programmer, but it is an extremely helpful foundation to have. 
+
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - This CS course from Harvard is highly recommended by tons of people for gaining a good grasp of Computer Science basics.
+- [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - If you want to go further with your CS fundamentals, this curriculum is intended to be the equivalent to a full CS degree.
 
 ### Tools for Self-Learners
 
