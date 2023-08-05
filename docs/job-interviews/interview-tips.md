@@ -25,3 +25,18 @@ Ask at least one question that shows you've done your **research** on the compan
 :::caution
 Be mindful of your **audience** when asking questions. For example, questions about compensation and benefits are best suited for a recruiter. In-depth questions about the tech stack are more appropriate for someone on the engineering team. Questions about company mission and vision are great ones to ask a CEO. Questions about company culture could be suited for any of the above.
 :::
+
+:::info
+If you're struggling to come up with questions to ask your interviewer, I really like this list that was shared by [Alejandro Ñáñez](https://github.com/alejandronanez), and it could be a great starting point for you to brainstorm questions that will be useful to you:
+
+- Let’s say you walk into a bar with your friends, and then you start talking about the company, what would you say?
+- How important is diversity for you, what are you doing to make it happen?
+- How do you deliver feedback?
+- How often you find yourself working outside of your 9-5?
+- How often is engineering involved in decision making?
+- If you had unlimited budget, what would you do?
+- What would you like to change?
+- You have GOOD engineers, and you have GREAT engineers. What set those two apart?
+- A year from now, I’d like to say that I’ve `{a goal you have for the next year, for example "contributed to at least one of the backend/infra/mobile projects"}`. Do you think that’s feasible?
+
+:::
