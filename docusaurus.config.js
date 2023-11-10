@@ -47,24 +47,11 @@ const config = {
         logo: {
           alt: "Caitlin Floyd logo",
           src: "img/CaitlinFloydLogo.png",
-        },
-        items: [
-          {
-            href: "https://caitlinfloyd.com",
-            label: "caitlinfloyd.com",
-            position: "right",
-          },
-        ],
+        }
       },
       footer: {
-        style: "dark",
-        copyright: `© ${new Date().getFullYear()} Caitlin Floyd`,
-        links: [
-          {
-            label: "Source Code",
-            href: "https://github.com/cafloyd/early-career",
-          },
-        ],
+        style: "light",
+        copyright:`<div>© ${new Date().getFullYear()} <a href="https://caitlinfloyd.com" target="_blank"> Caitlin Floyd</a> (<a href="https://github.com/cafloyd/early-career" target="_blank">open source</a>)</div>`
       },
       prism: {
         theme: lightCodeTheme,
