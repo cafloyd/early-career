@@ -11,4 +11,4 @@ For researching the market rate for your area/experience level, try:
 - [Glassdoor](https://www.glassdoor.com/)
 - [Indeed](https://www.indeed.com/career/junior-software-engineer/salaries/Washington--DC)
 
-Hired.com's [2022 State of Software Engineers](https://hired.com/2022-state-of-software-engineers/) is really helpful for understanding the general software engineering market.
+Hired.com puts out a State of Software Engineers report each year that is really helpful for understanding the general software engineering market. Here is the [2023 State of Software Engineers](https://hired.com/state-of-software-engineers/2023/) report.
