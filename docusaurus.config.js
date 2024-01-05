@@ -53,13 +53,11 @@ const config = {
             to: '/early-career',
             label: 'Job Hunting for Early-Career Devs',
             position: 'left',
-            activeBaseRegex: 'docs/early-career/'
           },
           {
-            to: '/career-development',
+            to: '/career-dev',
             label: 'Career Development',
             position: 'left',
-            activeBaseRegex: 'docs/career-development/'
           }
         ]
       },

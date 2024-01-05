@@ -91,7 +91,14 @@ const sidebars = {
     },
   ],
   careerDevSidebar: [
-    'career-development/intro',
+    'career-dev/intro',
+    {
+      type: 'category',
+      label: '1️⃣ 1-on-1s',
+      items: [
+        'career-dev/one-on-ones/effective-1-on-1s',
+      ]
+    }
   ]
 };
 
