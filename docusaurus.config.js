@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             to: '/early-career',
-            label: 'Job Hunting for Early-Career Devs',
+            label: 'Job Hunting',
             position: 'left',
           },
           {
