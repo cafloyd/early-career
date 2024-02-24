@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Tips & Resources for Early-Career Devs",
-  tagline: "Advice for finding your first tech role",
+  title: "Career Advice for Devs",
+  tagline: "Advice for finding your first tech role and beyond",
   url: "https://imaginative-tulumba-10895f.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -43,11 +43,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Tips & Resources for Early-Career Devs",
+        title: "Career Advice for Devs",
         logo: {
           alt: "Caitlin Floyd logo",
           src: "img/CaitlinFloydLogo.png",
-        }
+        },
+        items: [
+          {
+            to: '/early-career',
+            label: 'Job Hunting',
+            position: 'left',
+          },
+          {
+            to: '/career-dev',
+            label: 'Career Development',
+            position: 'left',
+          }
+        ]
       },
       footer: {
         style: "light",
