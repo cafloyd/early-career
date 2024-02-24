@@ -9,6 +9,7 @@ sidebar_position: 3
 ## How to Find a Mentor
 - I was on the [Virtual Coffee Podcast](https://virtualcoffee.io/podcast/caitlin-floyd) and talked about mentorship - both being a mentor and being a mentee.
 - [Secrets of a Stealth Mentee](http://kwugirl.blogspot.com/2020/10/secrets-of-stealth-mentee.html)
+- [How to Self-Mentor](https://www.samjulien.com/how-to-self-mentor)
 
 ## Structured Mentoring Programs
 - [ADPList](https://adplist.org/)
