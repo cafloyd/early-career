@@ -26,8 +26,3 @@ For me, one of the hardest parts of negotiating was trying to figure out how to 
 - [Salary Negotiation Tips from White Men in Tech](https://www.keirstenbrager.tech/salarytips-part1/)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [A People Pleaser's Guide to Salary Negotiation](https://m.youtube.com/watch?v=4EoMYQ6fmss)
-
-## Negotiating a Raise
-- [The Ask a Manager Guide to Asking for a Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html)
-- [5 Tips for Negotiating a Raise Successfully](https://www.businessnewsdaily.com/8101-asking-for-a-raise-tips.html)
-- [How to Write a Salary Increase Letter to Ask Your Boss for a Raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
