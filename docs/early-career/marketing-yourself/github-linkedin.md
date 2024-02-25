@@ -10,4 +10,4 @@ sidebar_position: 3
 
 ## Linkedin
 
-- The [Get a Job Using Linkedin](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk) Youtube series from [Danny Thompson](https://twitter.com/DThompsonDev) has a lot of great tips about how to optimize your LinkedIn profile
+- The [Get a Job Using Linkedin](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk) Youtube series from [Danny Thompson](https://twitter.com/DThompsonDev) has a lot of great tips about how to optimize your LinkedIn profile. He also has a [LinkedIn Learning course](https://www.linkedin.com/learning/linkedin-profiles-for-technical-professionals/why-use-linkedin-to-get-you-a-job?u=76278148) on the subject.

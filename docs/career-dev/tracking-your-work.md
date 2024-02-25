@@ -2,8 +2,7 @@
 sidebar_position: 2
 ---
 # 📝 Tracking Your Work
-In my opinion, effectively tracking your work and your progress is the first step in developing your career.
-
+In my opinion, effectively tracking your work and your progress is an essential first step in developing your career. Doing so regularly will make it much easier to make the case for a promotion or raise when it comes time for your annual review.
 
 ## Types of Records to Keep
 - If you don't already have one, start a [brag doc](https://jvns.ca/blog/brag-documents/) immediately. This is a place to keep track of your wins, which is really helpful for things like annual reviews, and is also a really helpful weapon against imposter syndrome.
