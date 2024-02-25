@@ -26,3 +26,4 @@ For me, one of the hardest parts of negotiating was trying to figure out how to 
 - [Salary Negotiation Tips from White Men in Tech](https://www.keirstenbrager.tech/salarytips-part1/)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [A People Pleaser's Guide to Salary Negotiation](https://m.youtube.com/watch?v=4EoMYQ6fmss)
+- [How to Negotiate Salary: 9 Tips From a Pro Salary Negotiator](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
