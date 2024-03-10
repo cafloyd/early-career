@@ -12,5 +12,7 @@ sidebar_position: 3
 - [How to Self-Mentor](https://www.samjulien.com/how-to-self-mentor)
 
 ## Structured Mentoring Programs
+I don't personally have experience with these programs, but depending on your needs a structured program might be a good fit:
+- [Leopard.fyi](https://leopard.fyi/) - Provides job search support, including mentorship, for women & non-binary folks in tech.
+- [Merit](https://www.get-merit.com/)
 - [ADPList](https://adplist.org/)
-- [Leopard.fyi](https://leopard.fyi/) - Provides job search support for women in tech, including mentorship.
