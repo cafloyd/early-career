@@ -7,6 +7,7 @@ In my opinion, effectively tracking your work and your progress is an essential 
 ## Types of Records to Keep
 - If you don't already have one, start a [brag doc](https://jvns.ca/blog/brag-documents/) immediately. This is a place to keep track of your wins, which is really helpful for things like annual reviews, and is also a really helpful weapon against imposter syndrome.
 - Another great record to start is a [developer journal](https://opensource.com/article/19/4/what-developer-journal), where you can keep track of things you've done and learned, and which you can use as a reference. (See also [daily work journal](https://blog.isquaredsoftware.com/2020/09/coding-career-advice-daily-work-journal/))
+- You can also track your work in a way that makes it [easier to spin up a resume](https://alistapart.com/article/the-career-management-document/) the next time you're on the job hunt.
 
 :::tip
 My advice is to start tracking your work in the simplest possible way at first:
