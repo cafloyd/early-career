@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Places to Look
+# Communities to Join
 
 In general, I've found that local communities or ones that share specific values or interests with you are the most useful, as opposed to massive generalized communities.
 
@@ -12,12 +12,15 @@ I don't have personal experience with most of these communities/resources. Pleas
 
 Hopefully this will give you some ideas of where to start looking for community!
 
+## Personal Rec
+
+- [Virtual Coffee](https://virtualcoffee.io/join) - I joined a lot of different communities while I was looking for my first dev role, but VC was one of my favorites, and is somewhere I'm still active
+  > Virtual Coffee is a community that welcomes people at all stages of their tech journey. Our mission is to be a welcoming tech community that allows room for growth and mentorship at all levels, and to create meaningful opportunities for learning, leadership, and contribution for everyone.
+
 ## Affinity Groups
 
 If you're from a historically excluded group in technology, it can be really helpful to connect with other people with a similar background. These are some that I've heard good things about:
 
-- [Women Who Code](https://www.womenwhocode.com/networks) - I've had great experience with my local WWC chapter!
-  > Our mission is to inspire women to excel in technology careers
 - [Techqueria](https://techqueria.org/)
   > Techqueria is a nonprofit that serves the largest global community of Latinx professionals in tech.
 - [Out in Tech](https://outintech.com/)
