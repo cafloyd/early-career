@@ -30,6 +30,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
+          editUrl: "https://github.com/cafloyd/early-career/tree/main/"
         },
         blog: false,
         theme: {
@@ -63,7 +64,7 @@ const config = {
       },
       footer: {
         style: "light",
-        copyright:`<div>© ${new Date().getFullYear()} <a href="https://caitlinfloyd.com" target="_blank"> Caitlin Floyd</a> (<a href="https://github.com/cafloyd/early-career" target="_blank">open source</a>)</div>`
+        copyright:`<div>© ${new Date().getFullYear()} <a href="https://caitlinfloyd.com" target="_blank"> Caitlin Floyd</a></div>`
       },
       prism: {
         theme: lightCodeTheme,
