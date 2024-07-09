@@ -11,7 +11,6 @@ There are a ton of job boards out there. Below are some that I liked. My advice 
 ### DEI-focused job boards
 
 - [Diversify Tech](https://www.diversifytech.co/)
-- [Women Who Code](https://www.womenwhocode.com/jobs)
 - [Techqueria](https://techqueria.org/jobs/)
 - [POCIT](https://www.pocitjobs.com/)
 
