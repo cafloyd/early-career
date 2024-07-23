@@ -18,6 +18,8 @@ I wrote about [a small mindset shift](https://blog.caitlinfloyd.com/job-hunting-
 
 - [The best questions to ask a hiring manager during an interview](https://lifehacker.com/the-best-questions-to-ask-a-hiring-manager-during-an-in-1849826701)
 
+- [21 Great Questions to Ask in Interviews](https://www.mattrutherford.co.uk/21-great-questions-to-ask-in-interviews)
+
 :::tip
 Ask at least one question that shows you've done your **research** on the company. Start by looking into whether they have a technical blog, or whether there are any recent news stories or interviews with company leadership. These sources can help you identify **problems the company is trying to solve**, and asking more specific questions about those problems will demonstrate that you are thoughtful and informed.
 :::
