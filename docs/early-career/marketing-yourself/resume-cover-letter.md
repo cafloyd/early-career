@@ -5,9 +5,11 @@ sidebar_position: 2
 # Resume & Cover Letter
 
 :::tip
-If you are a career changer, my biggest advice is to focus on writing your descriptions of your previous roles for a tech audience:
+If you are a career changer, my main advice is to focus on writing your descriptions of your previous roles for a tech audience:
 - "Translate" your duties into terminology that will be familiar to someone in the tech industry. (For example, did you do anything that could be described as "writing documentation"? Did you have to provide feedback in a way similar to peer review? )
 - Resume space is limited - try to have all of your duties demonstrate either some kind of technical experience or a transferrable skill. Even if you are really proud of something you accomplished, if it's hard to show the relevance to your next job, consider removing it. This can be really emotionally difficult, but it's important to make sure everything on your resume is providing value in your job search.
+
+See [Note to Career Changers](/early-career/marketing-yourself/telling-your-story#note-to-career-changers) for more
 :::
 
 - I haven't personally used this resource, but if you're looking for your first dev job and want advice on setting up your resume, [this guide](https://thetechresume.com/complimentary-copy.html) looks really helpful!
