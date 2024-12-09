@@ -21,7 +21,9 @@ If you're a career changer, telling your story well is one of the keys to a succ
 ### Describing Your Previous Experience
 When it comes to your resume, you might be tempted to remove all traces of your previous career when looking for a job in tech. I'd advise against this. Any experience you have is an asset - it all comes down to how you describe that experience.
 
-When you talk about your previous experience, describe it *through a tech lens* in order to translate it for your audience of recruiters and hiring managers. In other words; focus on the transferable skills as much as you can; and if there were any technical aspects to your job, highlight them regardless of how significant a responsibility they were. Some examples:
+When you talk about your previous experience, describe it *through a tech lens* in order to translate it for your audience of recruiters and hiring managers. In other words; focus on the transferable skills as much as you can; and if there were any technical aspects to your job, highlight them regardless of how significant a responsibility they were. 
+
+Some examples:
 - At a previous job, I worked to create a handbook for the teachers in my program. On my resume, I described this as "writing documentation" for teachers in my program.
 - At the same job, I worked on researching and implementing CRM software for our organization. It wasn't a primary responsibility, but since it was technical I included it on my resume.
 - A career changer I spoke with once worked previously as a scientist - she was able to describe some of her previous research in terms of "A/B testing"
