@@ -14,7 +14,7 @@ Before I pivoted into tech, I dealt with severe burnout in my previous career, s
     It's a huge privilege to have a job you love, but it's not a great idea to put all of your eggs in one basket when it comes to your identity or sense of fulfillment. For one thing, no job is forever, and when your job inevitably ends for whatever reason, you want to minimize the impact to your mental health. For another, it is just generally more fun and rewarding to be be a multi-faceted person with multiple interests and passions.
 
 ## Resources
-- [The Dev Health OS](devhealthos.com)
+- [The Dev Health OS](https://www.devhealthos.com)
 - I highly recommend this blog series from [Sam Julien](https://www.samjulien.com/) on preventing burnout through systematic progress:
     - [Understanding and Recovering from Burnout](https://www.samjulien.com/understanding-burnout)
     - [Building a Progress System](https://www.samjulien.com/progress-system-overview)
