@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # Resume & Cover Letter
 
+## Resume
 :::tip
 If you are a career changer, my main advice is to focus on writing your descriptions of your previous roles for a tech audience:
 - "Translate" your duties into terminology that will be familiar to someone in the tech industry. (For example, did you do anything that could be described as "writing documentation"? Did you have to provide feedback in a way similar to peer review? )
@@ -25,3 +26,6 @@ In the US, employers outside of academia generally expect a resume, not a CV. If
 
 Another thing to note - while it is common in some countries to include a head shot, when applying for jobs in the US, your resume should not include one. Due to concerns about discrimination, some employers won't even consider an applicant that has included a head shot with their resume/application.
 :::
+
+## Cover Letter
+In the age of generative AI, if you're writing a cover letter, it's more important than ever to make it personal and to hook your audience with your introduction.
