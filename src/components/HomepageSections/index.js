@@ -20,7 +20,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_engineering_team.svg').default,
     description: (
       <>
-        You're already developing software, now let's develop your career! Career rules and expectations go unspoken in many workplaces. Here are some tips and advice that have worked for me.
+        You're already developing software, now let's develop your career! Career rules and expectations go unspoken in many workplaces. Here's some advice that has worked for me.
       </>
     ),
     route: '/career-dev',
