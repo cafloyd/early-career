@@ -23,9 +23,11 @@ There are a ton of job boards out there. Below are some that I liked. My advice 
 
 - [All Hands](https://www.all-hands.us/)
 - [Tech Jobs for Good](https://techjobsforgood.com/)
+- [DSCovery - civic tech job board](https://dscovery.fly.dev/)
 
 ### Other job boards
 
+- [Digital Accessibility Job Board](https://www.a11yjobs.com/)
 - [Protege.dev](https://protege.dev/)
 - [No CS OK](https://nocsok.com/)
 - [4 Day Week](https://4dayweek.io/)

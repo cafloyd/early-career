@@ -27,3 +27,4 @@ For me, one of the hardest parts of negotiating was trying to figure out how to 
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [A People Pleaser's Guide to Salary Negotiation](https://m.youtube.com/watch?v=4EoMYQ6fmss)
 - [How to Negotiate Salary: 9 Tips From a Pro Salary Negotiator](https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
+- [How much time can I ask for to consider a job offer?](https://www.askamanager.org/2025/01/how-much-time-can-i-ask-for-to-consider-a-job-offer.html)

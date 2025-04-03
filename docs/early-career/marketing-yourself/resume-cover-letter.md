@@ -21,6 +21,8 @@ See [Note to Career Changers](/early-career/marketing-yourself/telling-your-stor
 
 - If you want a better sense of the kinds of things recruiters and hiring managers are looking for when they look at resumes, I found this video of an experienced recruiter and hiring manager [reviewing resumes](https://www.youtube.com/watch?v=6fkVTqQxJX8) just as they do when they're hiring to be really useful.
 
+- If you're a career changer or a recent grad, consider writing a [functional resume](https://theeverygirl.com/what-is-a-functional-resume) instead of a traditional chronological resume.
+
 :::info
 In the US, employers outside of academia generally expect a resume, not a CV. If you don't know the difference between these two terms, [here is a helpful write-up](https://www.indeed.com/career-advice/resumes-cover-letters/difference-between-resume-and-cv).
 
