@@ -15,6 +15,7 @@ Before I pivoted into tech, I dealt with severe burnout in my previous career, s
 
 ## Resources
 - [The Dev Health OS](https://www.devhealthos.com)
+- This TED Talk [How to reclaim your life from work](https://www.ted.com/talks/simone_stolzoff_how_to_reclaim_your_life_from_work) overlaps with point 2 above.
 - I highly recommend this blog series from [Sam Julien](https://www.samjulien.com/) on preventing burnout through systematic progress:
     - [Understanding and Recovering from Burnout](https://www.samjulien.com/understanding-burnout)
     - [Building a Progress System](https://www.samjulien.com/progress-system-overview)
