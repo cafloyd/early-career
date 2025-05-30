@@ -63,7 +63,7 @@ Here are two roundups of tech-focused Slack workspaces.
 Volunteering is always a great way to meet people while doing some good. There are two routes you could take with volunteering:
 
 1. Volunteering as a software engineer gives you the advantage of getting additional experience to put on your resume.
-2. I've also heard some people advise volunteering in a completely different context if you're looking to network. Volunteering at a food bank or as a poll worker or in some other non-tech role will let you meet people from different industries. If any of those people hear of an opening for a software engineer, you will likely be the one and only person that comes to mind.
+2. I've also heard some people recommend volunteering in a completely different context if you're looking to network. Volunteering at a food bank or as a poll worker or in some other non-tech role will let you meet people from different industries. If any of those people hear of an opening for a software engineer, you will likely be the first person that comes to mind.
 
 :::
 

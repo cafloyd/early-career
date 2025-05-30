@@ -23,6 +23,8 @@ See [Note to Career Changers](/early-career/marketing-yourself/telling-your-stor
 
 - If you're a career changer or a recent grad, consider writing a [functional resume](https://theeverygirl.com/what-is-a-functional-resume) instead of a traditional chronological resume.
 
+- [Leopard.FYI Resume Guidelines](https://leopard.fyi/blog/leopardfyi-resume-guidelines)
+
 :::info
 In the US, employers outside of academia generally expect a resume, not a CV. If you don't know the difference between these two terms, [here is a helpful write-up](https://www.indeed.com/career-advice/resumes-cover-letters/difference-between-resume-and-cv).
 

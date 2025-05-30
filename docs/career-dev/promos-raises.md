@@ -41,5 +41,6 @@ The way you'll go about preparing for a promotion will depend what process has b
 - [The Ask a Manager Guide to Asking for a Raise](https://www.askamanager.org/2018/02/the-ask-a-manager-guide-to-asking-for-a-raise.html)
 - [5 Tips for Negotiating a Raise Successfully](https://www.businessnewsdaily.com/8101-asking-for-a-raise-tips.html)
 - [How to Write a Salary Increase Letter to Ask Your Boss for a Raise](https://fearlesssalarynegotiation.com/salary-increase-letter-sample/)
+- [How to Ask for a Raise](https://jocelyngoldfein.com/how-to-ask-for-a-raise-da34ee4ecd5a)
 
 See [Negotiating](/negotiating) for general advice about negotiating.

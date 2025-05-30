@@ -13,6 +13,10 @@ Tech conferences can be really great opportunities to advance your career. In my
 
 - [Tech Conferences for the Uninitiated](https://suze.dev/blog/tech-conferences-for-the-uninitiated/)
 
+- [First Time Tech Conference: Things You Need to Know](https://www.audreypwillis.com/post/first-time-tech-conference-things-you-need-to-know)
+
+- [Navigating Your First Tech Conference Alone](https://israataha.com/blog/navigating-your-first-tech-conference/)
+
 :::tip
 If you're introverted, conferences might feel daunting for you. A couple of tips:
 - **Feeling overstimulated:** It's ok to skip a talk or event during the conference if you're feeling overwhelmed and need some time to recover & process. Depending on the venue, you could go for a walk, find a nearby coffee shop, or even just find somewhere to sit in the lobby. Preview the schedule and identify time blocks when you might want to duck out if needed.
