@@ -1,20 +1,25 @@
 ---
 sidebar_position: 5
 ---
+
 # 🪜 Promotions & Raises
 
 ## Promotions
+
 :::tip
 Generally, companies will promote based on one of two paradigms. Understanding which applies to your company will help you effectively advocate for your own promotion.
 
-1. Based on **potential:**
+1.  Based on **potential:**
 
     If your company promotes based on potential, this means you have to demonstrate how you are excelling at your current level and perhaps how you are already starting to meet some of the expectations of the next level up.
 
-2. Based on **impact:**
+2.  Based on **impact:**
 
-    If your company promotes based on impact, this means the expectation is that you will get a promotion once you are _already_ performing at the next level up. To make the case for a promotion, you'll ideally have a list of the expectations for that position so you can compile a list of examples of how you are meeting those expectations.
-:::
+        If your company promotes based on impact, this means the expectation is that you will get a promotion once you are _already_ performing at the next level up. To make the case for a promotion, you'll ideally have a list of the expectations for that position so you can compile a list of examples of how you are meeting those expectations.
+
+    :::
+
+Here's a helpful two-part series on getting promoted: [part 1](https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-1/), [part 2](https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-2/)
 
 ### When to Negotiate for a Promotion
 
@@ -29,12 +34,11 @@ It's a really good idea to start this conversation early because:
 
 The way you'll go about preparing for a promotion will depend what process has been defined at your company. From most to least structured:
 
-| If your company has...                                                                             | Prepare for a promotion by...                                                           |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| ✅ A formalized process for applying for a promotion                                                  | Following the steps laid out in your company's process                                  |
-| ❌ No formal process for applying for a promotion, but <br/><br/> ✅ A clear outline of expectations for each level | *(If your company promotes based on **potential**)* <br/> Compiling a list of examples of how you are excelling at your current level and how you are beginning to demonstrate competencies at the next level up. <br/><br/> *(If your company promotes based on **impact**)* <br/> Compiling a list of examples of how you are meeting each expectation of the next level up. |
-| ❌ No formal process for applying for a promotion, and <br/><br/> ❌ No clearly defined career ladder | Working with your manager to define a list of goals to reach in order to demonstrate that you are ready for a promotion. |
-
+| If your company has...                                                                                              | Prepare for a promotion by...                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ✅ A formalized process for applying for a promotion                                                                | Following the steps laid out in your company's process                                                                                                                                                                                                                                                                                                                         |
+| ❌ No formal process for applying for a promotion, but <br/><br/> ✅ A clear outline of expectations for each level | _(If your company promotes based on **potential**)_ <br/> Compiling a list of examples of how you are excelling at your current level and how you are beginning to demonstrate competencies at the next level up. <br/><br/> _(If your company promotes based on **impact**)_ <br/> Compiling a list of examples of how you are meeting each expectation of the next level up. |
+| ❌ No formal process for applying for a promotion, and <br/><br/> ❌ No clearly defined career ladder               | Working with your manager to define a list of goals to reach in order to demonstrate that you are ready for a promotion.                                                                                                                                                                                                                                                       |
 
 ## Raises
 
