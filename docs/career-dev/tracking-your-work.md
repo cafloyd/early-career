@@ -32,6 +32,8 @@ Some of us have been socialized not to brag about ourselves, which can make it r
 2. **Find a buddy (or several).** Team up with people that you work with, and hype each others' wins! If you're uncomfortable bragging about yourself, it can feel a lot easier to brag about someone else. Being each other's hype squad is also a great way of strengthening your network
 3. **Use metrics when possible.** Stating a task you accomplished along with the impact it had is a neutral way of bragging about yourself without having to explicitly say "I'm crushing it!"
 
+This article on [promoting yourself](https://www.creativeboom.com/tips/how-to-market-yourself-without-feeling-gross/) has some additional advice on this topic.
+
 ## Useful Tools
 
 - My notetaking app of choice is [Obsidian](https://obsidian.md/). (Here's an [intro to Obsidian](https://www.samjulien.com/get-started-with-obsidian-as-a-developer) if you'd like to learn more.)
