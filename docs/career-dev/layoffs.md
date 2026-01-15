@@ -4,6 +4,8 @@ sidebar_position: 11
 
 # ❌ Layoffs
 
+If you've been impacted by layoffs or suspect you might be soon, I hope the resources here are helpful to you. Please do your best to also make sure you're taking care of yourself.
+
 ## Checklists
 
 - [Laid Off or Let Go Checklist](https://0sulml7kjpu.typeform.com/to/sf92yLdt) - This resource is from [Never Search Alone](https://www.neversearchalone.org/) which is a book and community that I've heard great things about and would consider looking into.
