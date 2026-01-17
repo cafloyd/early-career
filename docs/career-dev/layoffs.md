@@ -11,7 +11,7 @@ If you've been impacted by layoffs or suspect you might be soon, I hope the reso
 - [Laid Off or Let Go Checklist](https://0sulml7kjpu.typeform.com/to/sf92yLdt) - This resource is from [Never Search Alone](https://www.neversearchalone.org/) which is a book and community that I've heard great things about and would consider looking into.
 - [Layoff Guide](https://github.com/MapboxWorkersUnion/layoff-guide)
 - [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
-- [Effective Immediately](https://github.com/derwiki/layoff-runbook)
+- [Effective Immediately](https://github.com/Effective-Immediately/effective-immediately)
 
 ## Videos
 
