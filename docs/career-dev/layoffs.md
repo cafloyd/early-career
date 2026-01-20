@@ -8,7 +8,8 @@ If you've been impacted by layoffs or suspect you might be soon, I hope the reso
 
 ## Checklists & Guides
 
-- [Laid Off or Let Go Checklist](https://0sulml7kjpu.typeform.com/to/sf92yLdt) - This resource is from [Never Search Alone](https://www.neversearchalone.org/) which is a book and community that I've heard great things about and would consider looking into.
+- [Laid Off or Let Go Checklist](https://0sulml7kjpu.typeform.com/to/sf92yLdt)
+  - This resource is from [Never Search Alone](https://www.neversearchalone.org/) which is a book and community that I've heard great things about. The book introduces a job search framework and the concept of Job Search Councils, which are small groups of job hunters that provide support and accountability to one another. I intend to look into joining a Job Search Council the next time I'm on the job hunt, and particularly if you're unexpectedly job hunting I think the moral support alone is a good reason to consider doing the same.
 - [Layoff Guide](https://github.com/MapboxWorkersUnion/layoff-guide)
 - [Layoff Runbook](https://github.com/derwiki/layoff-runbook)
 - [Effective Immediately](https://github.com/Effective-Immediately/effective-immediately)
