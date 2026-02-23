@@ -45,17 +45,6 @@ Here are two roundups of tech-focused Slack workspaces.
   > An inclusive community of content creators helping each other grow.
 - [Jamstack](https://jamstack.org/community/)
   > Our community members gather in many channels, online and in-person around the world, to learn about modern web development techniques and emerging technologies. Join the community to exchange ideas, find new opportunities and help build a better web.
-- [Open Sauced](https://docs.opensauced.pizza/) ([link to Discord server](https://discord.com/nvite/U2peSNf23P))
-  > Open Sauced provides guidance for new contributors finding their next contribution. Our approach towards onboarding offers a way to track contributions through a GitHub powered dashboard.
-- [Code Book Club](https://madisonkanna.com/codebookclub/) from [Madison Kanna](https://madisonkanna.com/)
-  > We are developers of all experience levels learning together. We hold live online meetups on Zoom, a video conference software. We pair program, hold group coding sessions, and read/discuss tutorials, courses and technical books together.
-
-## Incubator Programs
-
-- [Code Connector](https://codeconnector.io/)
-  > We're here to help you get connected with mentors, meetups, communities, education, and companies that have your best interest in mind.
-- [Year One](https://www.joinyearone.io/)
-  > Growing software engineers, one lesson at a time. Accelerate your early career with a curated education plan & community of peers.
 
 ## Volunteer Opportunities
 
@@ -78,4 +67,3 @@ These are some directories of volunteer opportunities, though I'd also recommend
 - [Meetup](https://www.meetup.com/home/) - a great place to find local events!
 - [Code & Coffee](https://www.codeandcoffee.community/)
   > A meetup community for developers to grow and make friends.
-- [Here to Help](https://heretohelp.social) from [Shawn Axsom](https://twitter.com/ShawnAxsom) - a directory of people who are 'here to help'
